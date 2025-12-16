@@ -266,7 +266,7 @@ export default function TokenStatus() {
               Please collect your order at the counter
             </div>
             <div style={{ marginTop: 12, color: "#bfb39a" }}>
-              Thank you for visiting Waffle Lounge 🍰
+             💛 Thank you 💛
             </div>
           </div>
         )}
